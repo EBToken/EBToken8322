@@ -1,0 +1,62 @@
+html,
+body {
+  background:#212529;
+  color:#fff;
+  margin: 0;
+  font-family: 'PT Sans', sans-serif;
+  
+}
+
+.card{
+  background:#2a3042;
+}
+
+.spann{
+  position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex: 0 1 25%;
+    -ms-flex: 0 1 25%;
+    flex: 0 1 25%;
+    font-size: 30px;
+    background-color: #404549;
+    border-radius: 5px;
+    padding: 10px 12px;
+    color: white;
+}
+
+.timer p {
+  margin: 0;
+}
+
+.timer {
+  border: 1px solid #ffba00;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%;
+  margin: auto;
+  color: #ffba00;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.referral h2{
+  color:#ffba00;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
